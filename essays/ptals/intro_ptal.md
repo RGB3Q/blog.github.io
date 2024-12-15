@@ -18,7 +18,7 @@ PTAL能够评估城市中任一地点获取公共交通服务的便利程度，�
 
 在伦敦交通局（TfL）发布的《交通评估最佳实践指导手册》中，PTAL一共分为从0到6六个等级，等级越高表示可达性越好。其中等级1和等级6被进一步细分为1a、1b和6a、6b。结合TfL发布的分级设色标准，通过类似热力图的方式，可以清晰地展现一个地区的公共交通可达性水平。
 
-<img src="./media/image.png" alt="图 1 TfL规定的PTAL分类标准" style="width:500px; height:auto;">
+![图 1 TfL规定的PTAL分类标准](./media/image.png){:style="width:500px;height:auto;"}
 
 图 1 TfL规定的PTAL分类标准
 

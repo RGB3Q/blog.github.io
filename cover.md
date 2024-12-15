@@ -7,6 +7,6 @@
 > 一个交通模型师的蓄水池
 
 
-[GitHub](https://github.com/RGB3Q/RGB3Q.github.io)
+[GitHub](https://github.com/RGB3Q)
 [Get Started](README)
 

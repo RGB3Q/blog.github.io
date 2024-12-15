@@ -16,11 +16,25 @@ PTAL能够评估城市中任一地点获取公共交通服务的便利程度，�
 - 有多条线路经过邻近站点；
 
 在伦敦交通局（TfL）发布的《交通评估最佳实践指导手册》中，PTAL一共分为从0到6六个等级，等级越高表示可达性越好。其中等级1和等级6被进一步细分为1a、1b和6a、6b。结合TfL发布的分级设色标准，通过类似热力图的方式，可以清晰地展现一个地区的公共交通可达性水平。\
-![图 1 TfL规定的PTAL分类标准](./media/image.png){:style="width:500px; height:auto"}\
+![图 1 TfL规定的PTAL分类标准](./media/image.png)\
 图 1 TfL规定的PTAL分类标准\
 ![](./media/image1.png)\
 图 2 大伦敦地区PTAL示意图\
 （来源：Assessing Transport Connectivity in London）\
+
+在伦敦交通局（TfL）发布的《交通评估最佳实践指导手册》中，PTAL一共分为从0到6六个等级，等级越高表示可达性越好。其中等级1和等级6被进一步细分为1a、1b和6a、6b。结合TfL发布的分级设色标准，通过类似热力图的方式，可以清晰地展现一个地区的公共交通可达性水平。
+
+<img src="./media/image.png" alt="图 1 TfL规定的PTAL分类标准" style="width:500px; height:auto;">
+
+图 1 TfL规定的PTAL分类标准
+
+<img src="./media/image1.png" alt="图 2 大伦敦地区PTAL示意图" style="width:500px; height:auto;">
+
+图 2 大伦敦地区PTAL示意图
+
+（来源：Assessing Transport Connectivity in London）
+
+
 此外，伦敦交通局专门为开发了网页端的“可达性评估工具箱”——WebCAT，基于PTAL向公众开放面向公共交通可达性评估的定制化快速查询体验，该工具支持基于地址搜索以及现状年和规划年的比较查询。在为城市规划决策服务的同时，也为普通民众的居住选址、公交出行评估提供了开放、专业的途径。WebCAT有效降低了公共交通评估决策的成本，通过简洁清晰的可视化方式向规划管理部门提供专业评估结果，是业务领域内的一大创新。\
 ![](./media/image2.png)\
 图 3 伦敦交通局开发的网页端“可达性评估工具箱”——WebCAT\

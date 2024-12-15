@@ -22,7 +22,7 @@ PTAL能够评估城市中任一地点获取公共交通服务的便利程度，�
 
 图 1 TfL规定的PTAL分类标准
 
-<img src="./media/image1.png" alt="图 2 大伦敦地区PTAL示意图" style="width:500; height:auto;">
+<img src="./media/image1.png" style="max-width: 10%; height:auto;">
 
 图 2 大伦敦地区PTAL示意图
 

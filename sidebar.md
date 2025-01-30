@@ -17,6 +17,7 @@
 
 * 随笔
   * [微观动机与宏观行为](essays/wander/微观动机与宏观行为.md)
+  * [从RTS游戏到微观交通仿真](essays/wander/FromRTStoMicroSimulation.md)
 
 * 文摘
   * [布雷顿森林体系的前世、今生和未来](essays/wander/时运变迁中文序.md)

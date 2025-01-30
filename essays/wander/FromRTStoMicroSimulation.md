@@ -4,9 +4,8 @@
 
 
 > 「CPU is fast and MEMORY is slow. 」 
->
->                                                                      ——By James Anhalt 
->
+                                                                     ——By James Anhalt 
+
 
 
 
@@ -39,7 +38,7 @@
 ##### 2.1.1 导航地图的拓扑图
 在我们常用的导航地图中，通过拓扑图(Topological Graph)，用节点代表路口，边代表道路来对道路网络进行描述。它不仅能表示不同道路间的联通关系，通过在边上存储距离、时间等信息，进一步形成权重图（weighted graph），这种图能帮助计算最短路径、分析交通状况，并用于导航系统。构建和优化拓扑图需要处理大量数据，是现代导航和路径规划的核心工具。
 
-![](https://github.com/RGB3Q/imgbed/blob/master/sattile.png)![](https://github.com/RGB3Q/imgbed/blob/master/osm_eg.png)
+![](https://raw.githubusercontent.com/RGB3Q/imgbed/blob/master/sattile.png)![](https://github.com/RGB3Q/imgbed/blob/master/osm_eg.png)
 
 ##### 2.1.2 基于拓扑图的经典最短路算法——Dijkstra和A*
 传统交通流仿真中，至今仍广泛采用经典的基于图论的算法——Dijkstra算法，以及由Dijkstra算法演化的A*算法（二者还有各种改进类型），来完成一对一的单车路径解算，主要因为仿真对象的OD(起终点)往往各不相同，在拓扑网络中，尽管可以一次性解算所有点对之间的最短路径，但开销同样会指数级上升。因此，在实际仿真前（或是车辆进入路网前），采取一次性或者流式批次的方法完成预解算，仍然是通行的方式。
